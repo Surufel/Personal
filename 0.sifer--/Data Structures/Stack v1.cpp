@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- Stack
+ Stack v1
  */
 
 #include <iostream>
