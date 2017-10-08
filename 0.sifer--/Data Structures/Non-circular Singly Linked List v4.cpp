@@ -20,7 +20,7 @@ public:
         head = nullptr;
     }
     
-    void insertNodeAtHead(int newData) {
+    void insertNodeAtHead(int newData) { // O(1)
         Node * newNodeTemp = new Node;
         newNodeTemp->data = newData;
         
@@ -28,7 +28,7 @@ public:
         head = newNodeTemp;
     }
     
-    void removeNodeAtHead() {
+    void removeNodeAtHead() { // O(1)
         if (head != nullptr) {
             Node * secondNode = head->next;
             delete head;

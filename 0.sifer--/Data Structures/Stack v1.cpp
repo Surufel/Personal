@@ -1,6 +1,7 @@
 /*
  Sifer Aseph
  Stack v1
+ LIFO, implemented with an array
  */
 
 #include <iostream>
