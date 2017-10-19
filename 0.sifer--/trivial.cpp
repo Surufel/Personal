@@ -18,8 +18,14 @@
  
  c_str()
  
- 
- 
+ So many modulo problems...
+ int reverse = 0;
+ while (number > 0) {
+     lastDigit = number % 10;
+     reverse = (reverse * 10) + lastDigit;
+     number = number / 10;
+ }
+
  */
 
 int main() {

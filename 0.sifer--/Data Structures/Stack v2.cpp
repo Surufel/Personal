@@ -2,7 +2,6 @@
  Sifer Aseph
  Stack v2
  LIFO, implemented with a linked list
- Operations: push, pop, peek, isFull, isEmpty
  */
 
 #include <iostream>

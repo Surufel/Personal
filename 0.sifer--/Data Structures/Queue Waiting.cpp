@@ -1,7 +1,7 @@
 /*
  Sifer Aseph
  Queue
- Waiting for Ayush to catch up before I start this
+ Waiting for someone to catch up before I start this
  */
 
 #include <iostream>
@@ -20,7 +20,7 @@ private:
 };
 
 int main() {
-    // I had a surprisingly tough time implementing my own so for future reference.
+    // For future reference.
     std::queue<int> example;
     example.push(1);
     example.push(2);

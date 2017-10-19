@@ -2,7 +2,6 @@
  Sifer Aseph
  Queue v1
  FIFO
- Operations: enqueue, dequeue, traverseAndDisplay, isEmpty
  */
 
 #include <iostream>

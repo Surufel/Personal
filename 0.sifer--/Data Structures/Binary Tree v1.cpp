@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- Tree
+ Binary Tree v1
  */
 
 // Next time, I am going to update the code to use smart pointers, like unique_ptr.

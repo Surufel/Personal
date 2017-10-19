@@ -1,0 +1,7 @@
+1. Two Sum - logic 
+7. Reverse Integer - modulo
+9. Palindrome Number - modulo
+258. Add Digits - logic and modulo
+344. Reverse String - modulo
+412. Fizz Buzz - logic
+520. Detect Capital - regex
