@@ -39,6 +39,8 @@ public:
 
 /*
  This tests understanding of modular arithmetics (some discrete mathematics) and language fluency (C++'s INT_MIN, INT_MAIN). Time complexity should be O(n). Reverse the number until x reaches 0. Then consider the overflow cases (line 31 to 33). These are linear operations.
+ 
+ https://en.wikipedia.org/wiki/Integer_(computer_science)
  */
 
 int main() {
