@@ -23,7 +23,7 @@ public:
 };
 
 /*
- This tests language fluency. [Surprisingly, my code's runtime beats 62.84% of C++ submissions.]
+ This tests language fluency. [[Surprisingly, my code's runtime beats 62.84% of C++ submissions!]]
  
  Though.. there is a better solution using Newton's method.
  long r = x;
