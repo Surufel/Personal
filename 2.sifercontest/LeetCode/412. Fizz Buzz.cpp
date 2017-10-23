@@ -34,6 +34,10 @@ public:
     }
 };
 
+/*
+ This tests only logic.
+ */
+
 int main() {
     Solution test;
     vector<string> testMe = test.fizzBuzz(15);

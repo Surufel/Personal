@@ -33,6 +33,10 @@ public:
     }
 };
 
+/*
+ This tests logic and modular arithmetics (some discrete mathematics). It should be O(log_10(n)) time complexity. First consider the corner cases (negative numbers, 10s, etc.) and then think about the logic. Converting int to string and back is more tedious but a workable solution. The better solution only requires half the number to solve. 12321 means only 12 and 21 are needed to compare. Line 32 makes consideration for odd and even number of digits.
+ */
+
 int main() {
     Solution test;
     std::cout << test.isPalindrome(-1) << std::endl;

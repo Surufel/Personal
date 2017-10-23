@@ -23,6 +23,10 @@ public:
     }
 };
 
+/*
+ This tests language fluency and regular expression. Just use C++'s <regex>.
+ */
+
 int main() {
     Solution solutionTest;
     std::cout << "Testing " << solutionTest.detectCapitalUse("USA") << std::endl;

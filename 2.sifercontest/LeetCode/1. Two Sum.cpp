@@ -10,8 +10,6 @@
 #include <iostream>
 #include <vector>
 
-using namespace std;
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -30,6 +28,11 @@ public:
         return returnMe;
     }
 };
+
+/*
+ This problem tests logic and basic language fluency (nested for loops). This brute force approach has a time complexity of O(n^2).
+ It loops through the vector and for each element in the vector, it compares with the next until the sum is found or until the end of vector.
+ */
 
 int main() {
     Solution test;

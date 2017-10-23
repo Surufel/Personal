@@ -32,6 +32,10 @@ public:
     }
 };
 
+/*
+ This tests logic. The solution only requires simple comparisons and increase or decrease count as needed.
+ */
+
 int main() {
     Solution test;
     std::vector<int> stuff = {1, 1, 2};

@@ -18,8 +18,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 class Solution {
 public:
     int reverse(int x) {
@@ -38,6 +36,10 @@ public:
         return reversedNumber;
     }
 };
+
+/*
+ This tests understanding of modular arithmetics (some discrete mathematics) and language fluency (C++'s INT_MIN, INT_MAIN). Time complexity should be O(n). Reverse the number until x reaches 0. Then consider the overflow cases (line 31 to 33). These are linear operations.
+ */
 
 int main() {
     Solution test;

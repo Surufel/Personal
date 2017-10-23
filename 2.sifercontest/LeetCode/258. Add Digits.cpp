@@ -55,6 +55,10 @@ private:
     
 };
 
+/*
+ This tests logic (mainly recursion) and modular arithmetics. This is a recursive solution.
+ */
+
 int main() {
     Solution digitTest;
     std::cout << ":" << digitTest.addDigits(65536) << ":" << std::endl;

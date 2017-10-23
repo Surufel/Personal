@@ -24,6 +24,10 @@ public:
     }
 };
 
+/*
+ This only tests language fluency. Just use C++'s .erase() method from <algorithm>. There are two more solutions, either brute force or binary search should work.
+ */
+
 int main() {
     Solution test;
     std::vector<int> stuff = {3, 2, 2, 3};

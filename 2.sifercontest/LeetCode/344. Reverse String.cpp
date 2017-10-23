@@ -20,6 +20,10 @@ public:
     }
 };
 
+/*
+ This tests only language fluency. Just use C++'s iterator (.rbegin(), .rend()).
+ */
+
 int main() {
     Solution test;
     cout << test.reverseString("hello") << endl;

@@ -45,6 +45,10 @@ public:
     }
 };
 
+/*
+ This tests language fluency (C++'s map) and logic. Once the values are mapped, think about how to traverse the given string. Either direction should work, as long as comparisons for Roman numeral rules are made.
+ */
+
 int main() {
     Solution test;
     std::cout << test.romanToInt("DCXXI") << std::endl; // 621
