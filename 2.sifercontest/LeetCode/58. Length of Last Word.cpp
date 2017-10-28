@@ -54,7 +54,7 @@ public:
     }
 };
  */
-
+ 
 int main() {
     Solution test;
     std::cout << test.lengthOfLastWord("") << "\n"; // correct if 0
