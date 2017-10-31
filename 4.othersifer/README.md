@@ -15,6 +15,7 @@
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * http://www.scottaaronson.com/blog/?p=152
+* http://www.hkame.org.hk/uploaded_files/magazine/15/274.pdf
 * http://www.buildyourownlinux.com/
 * https://tldrlegal.com 
 
