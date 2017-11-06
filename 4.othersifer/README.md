@@ -18,6 +18,8 @@
 * http://www.hkame.org.hk/uploaded_files/magazine/15/274.pdf
 * http://www.buildyourownlinux.com/
 * https://tldrlegal.com 
+* https://groups.google.com/forum/m/#!msg/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ
+* https://groups.google.com/forum/m/#!msg/mi.jobs/poXLCW8udK4/_GHzqB9sG9gJ
 
 **Life Extension/Immortality** 
 * Me! https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
