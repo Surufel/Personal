@@ -10,7 +10,7 @@
 
 class LongLiveZhangzj {
 public:
-    int donate (std::vector<std::string> speech, std::vector<std::string> words) {
+    int donate(std::vector<std::string> speech, std::vector<std::string> words) {
         int second = 0;
 
         for (int i = 0; i < speech.size(); ++i) {

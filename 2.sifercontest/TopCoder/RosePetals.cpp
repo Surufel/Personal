@@ -10,7 +10,7 @@
 
 class RosePetals {
 public:
-    int getScore (std::vector<int> dice) {
+    int getScore(std::vector<int> dice) {
         int score = 0;
 
         for (int i = 0; i < dice.size(); ++i) {
