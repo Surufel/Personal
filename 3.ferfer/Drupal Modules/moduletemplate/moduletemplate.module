@@ -1,0 +1,57 @@
+<?php
+// $Id$
+
+/* if a function won't fit on a single screen, it's probably too long */
+
+/*
+* hook_perm()
+* @return array an array of valid permissions
+*/
+
+function moduletemplate_perm() {
+  return array('access moduletemplate content');
+  /*
+  * permission strings must be unique among all installed modules, for example:
+  * return array('access sifersmodule', 'create sifersmodule', 'administer sifersmodule');
+  */
+} // function moduletemplate_perm
+
+/*
+* hook_block
+* $op (or operation) performs 4 operations which are list, view, save, and form
+*
+* list is when the blocks are listed on the admin page, view is when it's actually viewed as a block
+* $delta is the name of the block, it has to be unique in my module
+* $edit used only with save operation
+*/
+
+function moduletemplate_block($op = 'list', $delta = 0) {
+  if ($op == "list") {
+    $block = array();
+    $block[0]["info"] = t('Module Template'); // because $block[0] is related to $delta = 0
+    return $block;
+  } elseif ($op == 'view') { // function moduletemplate_block
+
+  // MY MODULE CODES GO HERE
+
+  }
+}
+
+/*
+* hook_help()
+* @param path, which path of the site we are displaying this help on
+* @param arg, array that holds the current path as would be returned from arg() func
+* @return help text for the path
+*/
+
+/*
+function moduletemplate_help($path, $arg) {
+  $output = '';
+  switch ($path) {
+    case "admin/help#moduletemplate":
+      $output = '<p>'.  t("This is the module template")  .'</p>';
+      break;
+  }
+  return $output;
+} // function moduletemplate_help
+*/

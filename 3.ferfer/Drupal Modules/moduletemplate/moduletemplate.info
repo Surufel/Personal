@@ -1,0 +1,9 @@
+; $Id$
+name = Module Template
+description = Template for all of the modules I make in the future.
+core = 6.x
+
+; dependencies[] = name of module needed
+; package = "which grouping string it is attached to such as CCK or Chat or Event"
+; because of this info file, hook_help is optional
+; but to implement help hook, go here: http://drupal.org/node/206756
