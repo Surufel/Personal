@@ -1,0 +1,4 @@
+mklink /j "C:\Users\profile_name\Documents\My Games\Sid Meier's Civilization VI\Saves\Single" "C:\Users\profile_name\Dropbox\Civ_VI_Saves"
+
+OneDrive and Origin/Steam are not that friendly with each other.
+
