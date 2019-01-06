@@ -16,9 +16,4 @@
 | [ferfer](https://github.com/Surufel/Personal/tree/master/3.ferfer)               | Web                  |
 | [othersifer](https://github.com/Surufel/Personal/tree/master/4.othersifer)       | Miscellaneous        |
 
-
-
-
-Current Project:  @
-
 [Back](http://www.siferaseph.com)
