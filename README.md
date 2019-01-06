@@ -2,7 +2,7 @@
 
 | Location         | Description                                                                          |
 |:----------------:|:------------------------------------------------------------------------------------:|
-| [Surufel.com](http://surufel.com/)                                                   | Surufel.com      |
+| [Surufel.com](http://surufel.com/)                                                   | Site for Surufel |
 | [Surufel](https://github.com/Surufel/surufel)                                        | Repo for Surufel |
 
 ### Fragment Map
