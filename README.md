@@ -2,8 +2,8 @@
 
 | Location         | Description                                                                          |
 |:----------------:|:------------------------------------------------------------------------------------:|
-| [Surufel](https://github.com/Surufel/surufel)                                    | Repository           |
-| [Cirquet](#)                                                                     | Cirquet |
+| [Surufel](http://surufel.com)                  | [Repository](https://github.com/Surufel/surufel)       |
+| [Cirquet](#)                                                                     | [Cirquet](#) |
 
 ### Fragment Map
 
