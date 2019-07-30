@@ -1,4 +1,4 @@
-# Sifer Aseph
+""" Sifer Aseph """
 
 import numpy
 import pandas

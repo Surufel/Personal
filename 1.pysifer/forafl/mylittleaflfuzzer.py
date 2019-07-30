@@ -1,6 +1,9 @@
-#!/usr/bin/env python
-# Sifer Aseph
-# My Little AFL Fuzzer
+#!/usr/bin/env python3
+"""
+Sifer Aseph
+
+My Little AFL Fuzzer
+"""
 
 import sys
 import afl
@@ -10,6 +13,7 @@ from cryptography.hazmat.primitives.asymmetric.utils import (
 )
 
 def main():
+    """Run AFL fuzzer."""
     afl.init()
 
     try:
