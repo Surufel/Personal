@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-Tree data structure
-"""
+# Sifer Aseph
+"""Tree data structure."""
 
 class TreeNode:
     """Individual tree node."""
