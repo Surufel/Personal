@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-virtualbox checker
-"""
+# Sifer Aseph
+"""virtualbox checker."""
 
 import os
 
