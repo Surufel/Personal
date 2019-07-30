@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-My Little AFL Fuzzer
-"""
+# Sifer Aseph
+"""My Little AFL Fuzzer."""
 
 import sys
 import afl
