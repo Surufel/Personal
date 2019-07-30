@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
+# Sifer Aseph
 """
-Sifer Aseph
-
 GCD
 Figure 1.5
 """

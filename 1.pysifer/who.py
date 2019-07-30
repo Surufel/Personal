@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-who
-"""
+# Sifer Aseph
+"""who wrapper program."""
 
 import os
 
