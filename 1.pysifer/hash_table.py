@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-Hash table data structure
-"""
+# Sifer Aseph
+"""Hash table data structure."""
 
 class HashTable:
     """Create a hash table object."""
+    
     table = [None] * 512
 
     def retrieve(self, key):
