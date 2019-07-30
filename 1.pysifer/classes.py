@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
+# Sifer Aseph
 """
-Sifer Aseph
-
 classes
 https://wiki.python.org/moin/SimplePrograms
 """
@@ -19,7 +18,7 @@ class BankAccount(object):
 def main():
     my_account = BankAccount(15)
     my_account.withdraw(5)
-    print my_account.balance
+    print(my_account.balance)
 
 if __name__ == "__main__":
     main()
