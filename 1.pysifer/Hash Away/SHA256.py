@@ -1,5 +1,6 @@
+#!/usr/bin/env python3
 # Sifer Aseph
-# SHA256
+"""SHA256, don't try this at home."""
 
 import os
 import hashlib
