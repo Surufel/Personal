@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""
-Sifer Aseph
-
-ping
-"""
+# Sifer Aseph
+"""Simple pinging wrapper program."""
 
 import os
 
