@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Sifer Aseph
 # I have no idea why I wrote this simple code but I did. To entertain you I included a joke:
 # Q: Why do programmers always mix up Halloween and Christmas?
