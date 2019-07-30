@@ -5,7 +5,6 @@ Sifer Aseph
 Tree data structure
 """
 
-
 class TreeNode:
     """Individual tree node."""
 

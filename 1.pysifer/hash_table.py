@@ -5,16 +5,19 @@ Sifer Aseph
 Hash table data structure
 """
 
-class HashTable(object):
+class HashTable:
+    """Create a hash table object."""
     table = [None] * 512
 
     def retrieve(self, key):
+        """Retrieve method."""
         total = 0
         for i in range(len(key)):
             total += ord(key[i]) * (7**i)
         return (len(key) * total) % 256
 
     def insert(self, key):
+        """Insert method."""
         value = self.retrieve(key)
         if self.table[value] == None:
             self.table[value] = key
@@ -24,7 +27,8 @@ class HashTable(object):
             else:
                 self.table[value] = [self.table[value], key]
 
-    def delete(self,key):
+    def delete(self, key):
+        """Delete method."""
         value = self.retrieve(key)
         if self.table[value] != None:
             if type(self.table[value]) == list:
@@ -35,7 +39,8 @@ class HashTable(object):
         else:
             KeyError()
 
-    def lookup(self,key):
+    def lookup(self, key):
+        """Lookup method."""
         found = False
         value = self.retrieve(key)
         if type(self.table[value]) == list:
@@ -44,11 +49,16 @@ class HashTable(object):
             found = self.table[value] == key
         return found
 
-test = HashTable()
-test.insert("A")
-test.insert("B")
-test.insert("C")
-test.delete("C")
-print test.lookup("A")
-print test.lookup("B")
-print test.lookup("C")
+def main():
+    """Run hash table tests."""
+    test = HashTable()
+    test.insert("A")
+    test.insert("B")
+    test.insert("C")
+    test.delete("C")
+    print(test.lookup("A"))
+    print(test.lookup("B"))
+    print(test.lookup("C"))
+
+if __name__ == "__main__":
+    main()

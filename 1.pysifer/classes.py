@@ -1,7 +1,10 @@
-#!/usr/bin/env python
-# Sifer Aseph
-# classes
-# https://wiki.python.org/moin/SimplePrograms
+#!/usr/bin/env python3
+"""
+Sifer Aseph
+
+classes
+https://wiki.python.org/moin/SimplePrograms
+"""
 
 class BankAccount(object):
     def __init__(self, initial_balance=0):
@@ -12,6 +15,11 @@ class BankAccount(object):
         self.balance -= amount
     def overdrawn(self):
         return self.balance < 0
-my_account = BankAccount(15)
-my_account.withdraw(5)
-print my_account.balance
+
+def main():
+    my_account = BankAccount(15)
+    my_account.withdraw(5)
+    print my_account.balance
+
+if __name__ == "__main__":
+    main()
