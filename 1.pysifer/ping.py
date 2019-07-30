@@ -1,17 +1,21 @@
-#!/usr/bin/env python
-# Sifer Aseph
-# ping
+#!/usr/bin/env python3
+"""
+Sifer Aseph
+
+ping
+"""
 
 import os
 
 def main():
-    hostname = "siferaseph.com"
-    response = os.system("ping -c 1 " + hostname)
+    """Use built-in to ping."""
+    host_name = "siferaseph.com"
+    response = os.system("ping -c 1 " + host_name)
 
     if response == 0:
-        print hostname, ': up'
+        print(host_name, ': up')
     else:
-        print hostname, ': down'
+        print(host_name, ': down')
 
 if __name__ == "__main__":
     main()
