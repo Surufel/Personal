@@ -1,6 +1,9 @@
-#!/usr/bin/env python
-# Sifer Aseph
-# Hash Table
+#!/usr/bin/env python3
+"""
+Sifer Aseph
+
+Hash table data structure
+"""
 
 class HashTable(object):
     table = [None] * 512
