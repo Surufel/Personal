@@ -1,11 +1,15 @@
-#!/usr/bin/env python
-# Sifer Aseph
-# who
+#!/usr/bin/env python3
+"""
+Sifer Aseph
+
+who
+"""
 
 import os
 
 def main():
-    os.system( 'w' )
+    """Use built-in to run a Unix command who."""
+    os.system('w')
 
 if __name__ == "__main__":
     main()
