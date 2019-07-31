@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Sifer Aseph
 """Board game-like grid."""
 
