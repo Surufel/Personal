@@ -1,8 +1,5 @@
 # Sifer Aseph
-"""
-TCP Client
-Run TCP Server first
-"""
+"""TCP Client. Run TCP Server first."""
 
 import socket
 
@@ -21,4 +18,4 @@ client.send("GET / HTTP/1.1\r\nHost: siferaseph.com\r\n\r\n")
 # receive some data
 response = client.recv(4096)
 
-print response
+print(response)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Sifer Aseph
 """
-I have no idea why I wrote this simple code but I did. Here is your entertainment.
+I have no idea why I wrote this but I did. Here is your entertainment.
 
 Q: Why do programmers always mix up Halloween and Christmas?
 A: Because Oct 31 == Dec 25!

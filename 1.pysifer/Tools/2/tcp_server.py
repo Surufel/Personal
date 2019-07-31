@@ -1,6 +1,5 @@
 # Sifer Aseph
-# TCP Server
-# After opening this, run TCP Client
+"""TCP Server. After opening this, run TCP Client."""
 
 import socket
 import threading
@@ -14,14 +13,14 @@ server.bind((bind_ip, bind_port))
 
 server.listen(5)
 
-print "[*] Listening on %s:%d" % (bind_ip, bind_port)
+print("[*] Listening on %s:%d" % (bind_ip, bind_port))
 
-# default client-handling thread
 def handle_client(client_socket):
+    """Handle client thread as default."""
     # print out what the client sends
     request = client_socket.recv(1024)
 
-    print "[*] Received: %s" % request
+    print("[*] Received: %s" % request)
 
     # send back a packet
     client_socket.send("ACK!")
@@ -31,7 +30,7 @@ def handle_client(client_socket):
 while True:
     client, addr = server.accept()
 
-    print "[*] Accepted connection from: %s:%d" % (addr[0], addr[1])
+    print("[*] Accepted connection from: %s:%d" % (addr[0], addr[1]))
 
     # spin up our client thread to handle incoming data
     client_handler = threading.Thread(target=handle_client, args=(client,))
