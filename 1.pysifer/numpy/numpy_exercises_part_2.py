@@ -1,6 +1,5 @@
 # Sifer Aseph
-#
-# numpy exercises part 2
+"""numpy exercises part 2."""
 
 import numpy as np
 

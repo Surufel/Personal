@@ -1,6 +1,8 @@
 # Sifer Aseph
-# TCP Client
-# Run TCP Server first
+"""
+TCP Client
+Run TCP Server first
+"""
 
 import socket
 
