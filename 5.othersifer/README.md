@@ -7,12 +7,11 @@
 **CS**
 * http://solutionowl.com/background-app-refresh-explained-in-laymans-terms/
 
-**STEM**
-* http://io9.gizmodo.com/what-if-natural-products-came-with-a-list-of-ingredient-1503320184
-
 **Career**
 * http://otherwords.org/dark-side-internships/
 * http://www.dailymail.co.uk/news/article-1267953/Job-seeker-Vicky-Harrison-commits-suicide-rejected-200-jobs.html
+
+**NYU**
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * https://news.yahoo.com/nyu-spends-1-1-million-200305013.html
@@ -68,8 +67,15 @@
 * http://motd.ambians.com/quotes.php/name/freebsd_fortunes/toc_id/1-0-2/s/6
 * http://thebaron.comicgenesis.com
 * https://conspiracyaccountabilityleague.blogspot.ca/2012/08/conspiracy-of-day-task-force-aurora.html
-* http://ladyfashionwallets.com
 * https://en.wikipedia.org/wiki/Backspace
+
+**STEM**
+* https://www.bls.gov/opub/mlr/2015/article/stem-crisis-or-stem-surplus-yes-and-yes.htm
+* http://io9.gizmodo.com/what-if-natural-products-came-with-a-list-of-ingredient-1503320184
+* http://i.imgur.com/MqDw15q.jpg
+* http://i.imgur.com/Ao7mkrm.jpg
+* https://www.joshuakennon.com/the-six-common-biological-sexes-in-humans/
+* https://www.pbs.org/wgbh/nova/article/hallucinations-and-perception/
 
 **Apple**
 * https://www.cultofmac.com/162823/linux-creator-linus-torvalds-i-love-my-macbook-air/
