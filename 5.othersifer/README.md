@@ -7,12 +7,14 @@
 **CS**
 * https://lemire.me/blog/2009/10/05/what-is-more-fundamental-physics-or-computer-science/
 * http://norvig.com/21-days.html "Teach Yourself Programming in Ten Years"
+* https://www.scottaaronson.com/blog/?p=122 "Reasons to believe"
 
 **Career**
 * http://otherwords.org/dark-side-internships/
 * http://www.dailymail.co.uk/news/article-1267953/Job-seeker-Vicky-Harrison-commits-suicide-rejected-200-jobs.html
 * http://matt.might.net/articles/phd-school-in-pictures/
 * https://www.bls.gov/opub/mlr/2015/article/stem-crisis-or-stem-surplus-yes-and-yes.htm
+* http://www.forbes.com/2000/06/29/feat.html "Some Billionaires Choose School Of Hard Knocks"
 
 **NYU**
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
