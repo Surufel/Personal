@@ -48,7 +48,7 @@
 * https://www.yubico.com/
 * https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
 
-**Competition/Contest**
+**Contest**
 * https://www.hackthissite.org
 * https://microcorruption.com/
 * http://overthewire.org/wargames/
