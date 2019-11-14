@@ -5,11 +5,14 @@
 * barnum effect
 
 **CS**
-* http://solutionowl.com/background-app-refresh-explained-in-laymans-terms/
+* https://lemire.me/blog/2009/10/05/what-is-more-fundamental-physics-or-computer-science/
+* http://norvig.com/21-days.html "Teach Yourself Programming in Ten Years"
 
 **Career**
 * http://otherwords.org/dark-side-internships/
 * http://www.dailymail.co.uk/news/article-1267953/Job-seeker-Vicky-Harrison-commits-suicide-rejected-200-jobs.html
+* http://matt.might.net/articles/phd-school-in-pictures/
+* https://www.bls.gov/opub/mlr/2015/article/stem-crisis-or-stem-surplus-yes-and-yes.htm
 
 **NYU**
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
@@ -68,15 +71,20 @@
 * http://thebaron.comicgenesis.com
 * https://conspiracyaccountabilityleague.blogspot.ca/2012/08/conspiracy-of-day-task-force-aurora.html
 * https://en.wikipedia.org/wiki/Backspace
+* http://antispore.com/
+* https://www.yahoo.com/news/anthony-scaramucci-resigned-everyone-hahahahahahahahaha-190807236.html
 
 **STEM**
-* https://www.bls.gov/opub/mlr/2015/article/stem-crisis-or-stem-surplus-yes-and-yes.htm
+* https://www.yahoo.com/lifestyle/is-cancer-risk-mostly-affected-by-genes-106664147472.html
 * http://io9.gizmodo.com/what-if-natural-products-came-with-a-list-of-ingredient-1503320184
 * http://i.imgur.com/MqDw15q.jpg
 * http://i.imgur.com/Ao7mkrm.jpg
 * https://www.joshuakennon.com/the-six-common-biological-sexes-in-humans/
+* https://aeon.co/essays/what-if-your-consciousness-is-an-illusion-created-by-your-brain
 * https://www.pbs.org/wgbh/nova/article/hallucinations-and-perception/
+* https://www.sciencealert.com/if-you-thought-quantum-mechanics-was-weird-wait-til-you-check-out-entangled-time
 
 **Apple**
+* http://solutionowl.com/background-app-refresh-explained-in-laymans-terms/
 * https://www.cultofmac.com/162823/linux-creator-linus-torvalds-i-love-my-macbook-air/
 * https://www.businessinsider.com/neil-degrasse-tyson-the-time-on-your-android-phone-is-incorrect-2012-3
