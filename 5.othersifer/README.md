@@ -5,9 +5,11 @@
 * barnum effect
 
 **CS**
+* http://www.buildyourownlinux.com/
 * https://lemire.me/blog/2009/10/05/what-is-more-fundamental-physics-or-computer-science/
 * http://norvig.com/21-days.html "Teach Yourself Programming in Ten Years"
 * https://www.scottaaronson.com/blog/?p=122 "Reasons to believe"
+* http://www.scottaaronson.com/blog/?p=152
 
 **Career**
 * http://otherwords.org/dark-side-internships/
@@ -20,16 +22,19 @@
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * https://news.yahoo.com/nyu-spends-1-1-million-200305013.html
+* https://medium.com/@johnhmeyer123/i-am-leaving-a-top-tier-university-4257ed3dfb6b
+* https://www.businessinsider.com/successful-19-year-old-turns-down-apple-2014-9
 
 **Notable**
 * https://www.eff.org/deeplinks/2009/04/boston-college-prompt-commands-are-suspicious
 * https://www.usatoday.com/story/news/2016/05/07/professors-airplane-math-leads-flight-delay/84084914/
-* http://www.scottaaronson.com/blog/?p=152
 * http://www.hkame.org.hk/uploaded_files/magazine/15/274.pdf
-* http://www.buildyourownlinux.com/
 * https://tldrlegal.com
 * https://groups.google.com/forum/m/#!msg/comp.lang.java/aSPAJO05LIU/ushhUIQQ-ogJ
-* https://groups.google.com/forum/m/#!msg/mi.jobs/poXLCW8udK4/_GHzqB9sG9gJ
+* https://www.reddit.com/r/zombieexodus/comments/8nwbj6/question_about_sifer_spoiler/
+* https://nypost.com/2014/06/08/teacher-reveals-awful-conditions-at-murry-bergtraum-hs/
+* https://nypost.com/2012/03/11/halls-of-hell-at-nys-worst-high-school/
+* https://nonpartisaneducation.org/Review/Testimonials/v13n1.pdf
 
 **Life Longevity**
 * Me! https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/ (Breakfast topic: Where everybody knows your name Elizabeth Wachowski 11.14.07)
@@ -41,6 +46,7 @@
 * https://fox8.com/2018/08/24/whats-the-secret-to-living-to-100-centenarians-becoming-more-common/
 
 **Security**
+* https://useguard.com
 * https://www.grsecurity.net
 * http://crackmes.de
 * http://www.daqwest.com
@@ -75,6 +81,8 @@
 * https://en.wikipedia.org/wiki/Backspace
 * http://antispore.com/
 * https://www.yahoo.com/news/anthony-scaramucci-resigned-everyone-hahahahahahahahaha-190807236.html
+* https://www.nydailynews.com/news/crime/firing-ar-15-horrifying-dangerous-loud-article-1.2673201
+* https://www.yahoo.com/lifestyle/woman-mocked-claiming-shes-beautiful-find-love-182541335.html
 
 **STEM**
 * https://www.yahoo.com/lifestyle/is-cancer-risk-mostly-affected-by-genes-106664147472.html
