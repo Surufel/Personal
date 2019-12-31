@@ -10,6 +10,7 @@
 * http://norvig.com/21-days.html "Teach Yourself Programming in Ten Years"
 * https://www.scottaaronson.com/blog/?p=122 "Reasons to believe"
 * http://www.scottaaronson.com/blog/?p=152
+* https://blog.tartanllama.xyz/initialization-is-bonkers/
 
 **Career**
 * http://otherwords.org/dark-side-internships/
@@ -57,6 +58,8 @@
 * http://attrition.org/errata/legal_threats/
 * https://www.yubico.com/
 * https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
+* https://www.privacytools.io
+* https://thatoneprivacysite.net
 
 **Contest**
 * https://www.hackthissite.org
