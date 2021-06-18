@@ -1,5 +1,3 @@
-Going forward to 2021, to making the world a better place!
-
 ### Project Map
 
 | Location         | Description                                                                          |
@@ -19,3 +17,5 @@ Going forward to 2021, to making the world a better place!
 | [othersifer](https://github.com/cassandriel/Personal/tree/master/4.othersifer)       | Miscellaneous        |
 
 [Back](http://www.siferaseph.com)
+
+<img src="https://github.com/sif/Personal/blob/master/5.othersifer/pexels-photo-1440387.jpeg" width="50" height="50" /> Not enough hours in a day.
