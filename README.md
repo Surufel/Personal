@@ -1,10 +1,3 @@
-### Project Map
-
-| Location         | Description                                                                          |
-|:----------------:|:------------------------------------------------------------------------------------:|
-| [Surufel](http://surufel.com)                  | [Repository](https://github.com/cassandriel/surufel)       |
-| [Cirquet](#)                                                                     | [Cirquet](#) |
-
 ### Fragment Map
 
 | Location         | Description                                                                          |
